@@ -45,7 +45,7 @@ variable "node_min" {
 
 variable "node_max" {
   type    = number
-  default = 3
+  default = 2
 }
 
 variable "node_desired" {
